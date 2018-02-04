@@ -1,0 +1,20 @@
+c:\users\ahmed\documents\visual studio 2010\Projects\MiniChat\MiniChat\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ahmed\documents\visual studio 2010\Projects\MiniChat\MiniChat\obj\x86\Debug\MiniChat.MainWindow.resources
+c:\users\ahmed\documents\visual studio 2010\Projects\MiniChat\MiniChat\obj\x86\Debug\MiniChat.Properties.Resources.resources
+c:\users\ahmed\documents\visual studio 2010\Projects\MiniChat\MiniChat\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ahmed\documents\visual studio 2010\Projects\MiniChat\MiniChat\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ahmed\documents\visual studio 2010\Projects\MiniChat\MiniChat\bin\Debug\MiniChat.exe
+c:\users\ahmed\documents\visual studio 2010\Projects\MiniChat\MiniChat\bin\Debug\MiniChat.pdb
+c:\users\ahmed\documents\visual studio 2010\Projects\MiniChat\MiniChat\obj\x86\Debug\MiniChat.exe
+c:\users\ahmed\documents\visual studio 2010\Projects\MiniChat\MiniChat\obj\x86\Debug\MiniChat.pdb
+c:\users\ahmed\documents\visual studio 2010\Projects\MiniChat\MiniChat\obj\x86\Debug\MiniChat.Login.resources
+D:\Projects 23-1\Projects\MiniChat\MiniChat\obj\x86\Debug\MiniChat.exe
+D:\Projects 23-1\Projects\MiniChat\MiniChat\obj\x86\Debug\MiniChat.pdb
+D:\Projects 23-1\Projects\MiniChat\MiniChat\bin\Debug\MiniChat.exe
+D:\Projects 23-1\Projects\MiniChat\MiniChat\bin\Debug\MiniChat.pdb
+D:\Projects 23-1\Projects\MiniChat\MiniChat\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects 23-1\Projects\MiniChat\MiniChat\obj\x86\Debug\MiniChat.Login.resources
+D:\Projects 23-1\Projects\MiniChat\MiniChat\obj\x86\Debug\MiniChat.MainWindow.resources
+D:\Projects 23-1\Projects\MiniChat\MiniChat\obj\x86\Debug\MiniChat.Properties.Resources.resources
+D:\Projects 23-1\Projects\MiniChat\MiniChat\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Projects 23-1\Projects\MiniChat\MiniChat\obj\x86\Debug\GenerateResource.write.1.tlog

@@ -1,0 +1,10 @@
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\ChatServer\ChatServer\bin\Release\ChatServer.exe
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\ChatServer\ChatServer\bin\Release\ChatServer.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\ChatServer\ChatServer\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\ChatServer\ChatServer\obj\x86\Release\ChatServer.exe
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\ChatServer\ChatServer\obj\x86\Release\ChatServer.pdb
+D:\Projects 23-1\Projects\ChatServer\ChatServer\obj\x86\Release\ChatServer.exe
+D:\Projects 23-1\Projects\ChatServer\ChatServer\obj\x86\Release\ChatServer.pdb
+D:\Projects 23-1\Projects\ChatServer\ChatServer\bin\Release\ChatServer.exe
+D:\Projects 23-1\Projects\ChatServer\ChatServer\bin\Release\ChatServer.pdb
+D:\Projects 23-1\Projects\ChatServer\ChatServer\obj\x86\Release\ResolveAssemblyReference.cache

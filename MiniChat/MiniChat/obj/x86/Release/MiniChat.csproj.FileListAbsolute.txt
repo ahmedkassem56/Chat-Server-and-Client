@@ -1,0 +1,10 @@
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\MiniChat\MiniChat\bin\Release\MiniChat.exe
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\MiniChat\MiniChat\bin\Release\MiniChat.pdb
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\MiniChat\MiniChat\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\MiniChat\MiniChat\obj\x86\Release\MiniChat.Login.resources
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\MiniChat\MiniChat\obj\x86\Release\MiniChat.MainWindow.resources
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\MiniChat\MiniChat\obj\x86\Release\MiniChat.Properties.Resources.resources
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\MiniChat\MiniChat\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\MiniChat\MiniChat\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\MiniChat\MiniChat\obj\x86\Release\MiniChat.exe
+C:\Users\Ahmed\Documents\Visual Studio 2010\Projects\MiniChat\MiniChat\obj\x86\Release\MiniChat.pdb
